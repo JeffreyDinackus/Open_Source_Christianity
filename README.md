@@ -17,6 +17,7 @@ Bibles
 2. ASV
 3. YLT
 4. Geneva
+5. WEB
 
 Church Fathers
 
