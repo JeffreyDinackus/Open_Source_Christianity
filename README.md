@@ -23,4 +23,4 @@ Church Fathers
 
 1. Didache
 
-Some documents web versions found at www.mirror.jeffreydinackus.com/ TO BE MOVED IN FUTURE. 
+Some documents web versions found at mirror.jeffreydinackus.com/ TO BE MOVED IN FUTURE. 
